@@ -1,0 +1,13 @@
+Revert "Added the new_text file"
+
+This reverts commit 6363ff534e4e350afe529bbea875cf35c5fbe519.
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch feature_1
+# Your branch is up to date with 'origin/feature_1'.
+#
+# Changes to be committed:
+#	deleted:    new_file.txt
+#
